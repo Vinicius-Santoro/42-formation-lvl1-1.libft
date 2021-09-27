@@ -16,9 +16,9 @@ libc.
 
 <h1></h1>
 
-### _My linkedin post:_
+### _My linkedin post about this project:_
 
-<p align="left">
+<p align="center">
   	<a href="https://www.linkedin.com/feed/update/urn:li:activity:6846152737483214848/">
     	<img alt="Linkedin" src="https://img.shields.io/badge/Vinicius Naziozeno Santoro do Rio-blue?style=flat&logo=Linkedin&logoColor=white" />
   	</a>
