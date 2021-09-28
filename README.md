@@ -1,6 +1,6 @@
 <h1>42-formation-lvl1-libft</h1>
 
-### _Project 1 - Libft First project for the formation of software engineers at school 42 São Paulo_
+### _Project 1 - Libft - First project for the formation of software engineers at school 42 São Paulo_
 
 - This project aims to code a C library regrouping usual functions.
 - My functions’ names must be prefixed by “ft_”. For instance strlen becomes
