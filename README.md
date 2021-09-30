@@ -1,4 +1,4 @@
-<h1>42-formation-lvl1-libft</h1>
+<h1>42-formation-lvl1-1.libft</h1>
 
 ### _Project 1 - Libft - First project for the formation of software engineers at school 42 São Paulo_
 
