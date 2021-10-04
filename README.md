@@ -3,8 +3,6 @@
 ### _Project 1 - Libft - First project for the formation of software engineers at school 42 São Paulo_
 
 - This project aims to code a C library regrouping usual functions.
-- My functions’ names must be prefixed by “ft_”. For instance strlen becomes
-ft_strlen.
 
 <h1></h1>
 
