@@ -43,8 +43,8 @@ libc.
 - [`ft_bzero`](libft-v2/ft_bzero.c)	- zero a byte string.
 - [`ft_memcpy`](libft-v2/ft_memcpy.c)	- copy memory area.
 - [`ft_memmove`](libft-v2/ft_memmove.c)	- copy memory area.
-- [`ft_strlcpy`](libft-v2s/ft_strlcpy.c)	- copy string to a specific size.
-- [`ft_strlcat`](libft-v2s/ft_strlcat.c)	- concatenate a string to a specific size.
+- [`ft_strlcpy`](libft-v2/ft_strlcpy.c)	- copy string to a specific size.
+- [`ft_strlcat`](libft-v2/ft_strlcat.c)	- concatenate a string to a specific size.
 - [`ft_strchr`](libft-v2/ft_strchr.c)	- locate character in a string.
 - [`ft_strrchr`](libft-v2/ft_strrchr.c)	- locate character in a string.
 - [`ft_strncmp`](libft-v2/ft_strncmp.c)	- compare two strings.
